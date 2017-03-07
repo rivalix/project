@@ -1,3 +1,4 @@
+<<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <div class="widget js-widget">
   <div class="widget__content">
     <div class="map map--index">

@@ -52,3 +52,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'home';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
+/*Users Controller*/
+$route['usuarios/registrar-una-cuenta-nueva'] = 'users/create_an_new_user_acount';
